@@ -140,7 +140,7 @@ async function modelTrain(data) {
                   autosize: false,
                   width: 600,
                   height: 600};
-    Plotly.newPlot("accPlot", [trace1, trace2], layout);
+    Plotly.newPlot("lossPlot", [trace1, trace2], layout);
 
   });
   
