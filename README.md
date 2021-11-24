@@ -1,1 +1,1 @@
-# Week13_TensorflowDigitsTest
+# HW 7 Warmup Activity
